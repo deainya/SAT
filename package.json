@@ -1,0 +1,14 @@
+{
+  "name": "SportAT",
+  "version": "0.1.0",
+  "description": "Sport Application Test",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "deainya",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.4"
+  }
+}
