@@ -1,5 +1,5 @@
 {
-  "name": "SportAT",
+  "name": "SAT",
   "version": "0.1.0",
   "description": "Sport Application Test",
   "main": "server/app.js",
